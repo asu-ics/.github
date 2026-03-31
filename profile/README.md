@@ -1,94 +1,46 @@
-# 🚀 ASU Next Lab
+# ASU Next Lab
 
-**Creating what’s next, now.**
+**Creating what's next, now.**
 
-ASU Next Lab is a **studio-driven innovation hub at Arizona State University** that brings together students, faculty, and industry partners to explore emerging technologies and build solutions for the future.
-
-We work at the intersection of **technology, education, and society**, empowering a community of creators to design impactful, future-ready systems.
+Next Lab is a studio-driven innovation hub within ASU Enterprise Technology. We bring together students, faculty, and industry partners to explore emerging technologies and build solutions that matter — sitting at the intersection of technology, education, and society.
 
 ---
 
-## 🌍 About Next Lab
+## About
 
-Next Lab is part of **ASU Enterprise Technology**, focused on:
-
-• Exploring emerging technologies (AI, XR, spatial computing, Web3)  
-• Building future-ready skills through hands-on projects  
-• Driving interdisciplinary collaboration across domains  
-• Creating ethical, inclusive, and impactful solutions  
-
-Our mission is to **bridge imagination and reality** by turning ideas into real-world applications that shape the future.
+Next Lab is part of ASU Enterprise Technology. Our work centers on exploring technologies before they're mainstream, developing hands-on skills through real projects, and building solutions that are ethical, inclusive, and built to last. The goal is straightforward: turn ideas into real-world applications through interdisciplinary collaboration.
 
 ---
 
-## 🧠 What We Do
+## What We Work On
 
-We develop projects across multiple domains:
-
-### ⚡ Core Focus Areas
-• Generative AI and Applied AI Systems  
-• Spatial Computing (AR/VR/XR, Digital Twins)  
-• Game-Based Learning and Interactive Systems  
-• Web and Full-Stack Platforms  
-• Digital Storytelling and UX Research  
-• Future Systems and Responsible Innovation  
+Our projects span a range of domains, including generative and applied AI systems, spatial computing (AR/VR/XR, digital twins), game-based learning, full-stack web platforms, digital storytelling, and UX research. Across all of them, the thread is the same — building things that have genuine impact.
 
 ---
 
-## 🏗️ How We Work
+## How We Work
 
-Next Lab operates through **guild-based collaboration**, where interdisciplinary teams build real-world solutions:
+Next Lab runs on a guild model, where interdisciplinary teams take on real problems together. Guilds include Applied AI Infrastructure, Games and Spatial Computing, Technical Artistry (3D, animation, design), Digital Storytelling, and UX and Research.
 
-• 🎮 Games & Spatial Computing  
-• 🤖 Applied AI Infrastructure  
-• 🎨 Technical Artistry (3D, Animation, Design)  
-• ✍️ Digital Storytelling  
-• 🔍 UX + Research  
-
-Projects are:
-• Student-led  
-• Partner-supported  
-• Built using industry tools (Unity, React, Python, AI frameworks)
-
-
-Next Lab projects focus on **real-world impact**:
-
-• AI-powered education tools for low-connectivity regions  
-• Virtual reality training simulations (e.g., healthcare, workforce)  
-• Digital twins for cities and infrastructure  
-• Game-based career exploration platforms  
-
-These projects aim to improve **access, learning, and innovation globally**.
+Projects are student-led and partner-supported, built using industry tools like Unity, React, Python, and modern AI frameworks. Past and ongoing work includes AI-powered education tools for low-connectivity regions, VR training simulations for healthcare and workforce development, digital twins for cities and infrastructure, and game-based career exploration platforms.
 
 ---
 
-## 🤝 Get Involved
+## Get Involved
 
-We welcome students, developers, designers, and researchers.
+We welcome students, developers, designers, and researchers across all disciplines. You can join a guild, contribute to a project, collaborate on research, or participate in one of our hackathons.
 
-You can:
-• Join a guild  
-• Contribute to projects  
-• Collaborate on research  
-• Participate in hackathons  
-
-📍 Location: Creativity Commons, ASU Tempe Campus  
-🌐 Learn more: https://nextlab.asu.edu  
+**Location:** Creativity Commons, ASU Tempe Campus  
+**Website:** [nextlab.asu.edu](https://nextlab.asu.edu)
 
 ---
 
-## 🧑‍💻 Community
-
-Next Lab is built by a diverse group of **students, engineers, designers, and innovators** working together to shape the future.
-
----
-
-## 📜 License
+## License
 
 Each repository may have its own license. Please refer to individual project repositories for details.
 
 ---
 
-## ✨ Vision
+## Vision
 
-> To cultivate future skills, technologies, and careers that create positive global impact.
+> To cultivate the future skills, technologies, and careers that create positive global impact.
